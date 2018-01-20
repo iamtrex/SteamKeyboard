@@ -1,0 +1,384 @@
+<?xml version="1.0"?>
+
+<Keys>
+	<Key name="`">
+		<x>0</x>
+		<y>0</y>
+		<w>1</w>
+	</Key>
+
+	<Key name="1">
+		<x>1</x>
+		<y>0</y>
+		<w>1</w>
+	</Key>
+	
+	<Key name="2">
+		<x>2</x>
+		<y>0</y>
+		<w>1</w>
+	</Key>
+	
+	<Key name="3">
+		<x>3</x>
+		<y>0</y>
+		<w>1</w>
+	</Key>
+	
+	<Key name="4">
+		<x>4</x>
+		<y>0</y>
+		<w>1</w>
+	</Key>
+	
+	<Key name="5">
+		<x>5</x>
+		<y>0</y>
+		<w>1</w>
+	</Key>
+	
+	<Key name="6">
+		<x>6</x>
+		<y>0</y>
+		<w>1</w>
+	</Key>
+	
+	<Key name="7">
+		<x>7</x>
+		<y>0</y>
+		<w>1</w>
+	</Key>
+	
+	<Key name="8">
+		<x>8</x>
+		<y>0</y>
+		<w>1</w>
+	</Key>
+	
+	<Key name="9">
+		<x>9</x>
+		<y>0</y>
+		<w>1</w>
+	</Key>
+	
+	<Key name="0">
+		<x>10</x>
+		<y>0</y>
+		<w>1</w>
+	</Key>
+	
+	<Key name="-">
+		<x>11</x>
+		<y>0</y>
+		<w>1</w>
+	</Key>
+	
+	<Key name="=">
+		<x>12</x>
+		<y>0</y>
+		<w>1</w>
+	</Key>
+	
+	<Key name="BACK">
+		<x>13</x>
+		<y>0</y>
+		<w>1.73</w>
+	</Key>
+	
+	
+	
+	
+	<Key name="TAB">
+		<x>0</x>
+		<y>1</y>
+		<w>1.38</w>
+	</Key>
+	
+	<Key name="Q">
+		<x>1</x>
+		<y>1</y>
+		<w>1</w>
+	</Key>
+	
+	<Key name="W">
+		<x>2</x>
+		<y>1</y>
+		<w>1</w>
+	</Key>
+	
+	<Key name="E">
+		<x>3</x>
+		<y>1</y>
+		<w>1</w>
+	</Key>
+	
+	<Key name="R">
+		<x>4</x>
+		<y>1</y>
+		<w>1</w>
+	</Key>
+	
+	<Key name="T">
+		<x>5</x>
+		<y>1</y>
+		<w>1</w>
+	</Key>
+	
+	<Key name="Y">
+		<x>6</x>
+		<y>1</y>
+		<w>1</w>
+	</Key>
+	
+	<Key name="U">
+		<x>7</x>
+		<y>1</y>
+		<w>1</w>
+	</Key>
+	
+	<Key name="I">
+		<x>8</x>
+		<y>1</y>
+		<w>1</w>
+	</Key>
+	
+	<Key name="O">
+		<x>9</x>
+		<y>1</y>
+		<w>1</w>
+	</Key>
+	
+	<Key name="P">
+		<x>10</x>
+		<y>1</y>
+		<w>1</w>
+	</Key>
+	
+	<Key name="[">
+		<x>11</x>
+		<y>1</y>
+		<w>1</w>
+	</Key>
+	
+	<Key name="]">
+		<x>12</x>
+		<y>1</y>
+		<w>1</w>
+	</Key>
+	
+	<Key name="\">
+		<x>13</x>
+		<y>1</y>
+		<w>1.35</w>
+	</Key>
+	
+	
+	
+	<Key name="Caps">
+		<x>0</x>
+		<y>2</y>
+		<w>1.62</w>
+	</Key>
+	
+	<Key name="A">
+		<x>1</x>
+		<y>2</y>
+		<w>1</w>
+	</Key>
+	
+	<Key name="S">
+		<x>2</x>
+		<y>2</y>
+		<w>1</w>
+	</Key>
+	
+	<Key name="D">
+		<x>3</x>
+		<y>2</y>
+		<w>1</w>
+	</Key>
+	
+	<Key name="F">
+		<x>4</x>
+		<y>2</y>
+		<w>1</w>
+	</Key>
+	
+	<Key name="G">
+		<x>5</x>
+		<y>2</y>
+		<w>1</w>
+	</Key>
+	
+	<Key name="H">
+		<x>6</x>
+		<y>2</y>
+		<w>1</w>
+	</Key>
+	
+	<Key name="J">
+		<x>7</x>
+		<y>2</y>
+		<w>1</w>
+	</Key>
+	
+	<Key name="K">
+		<x>8</x>
+		<y>2</y>
+		<w>1</w>
+	</Key>
+	
+	<Key name="L">
+		<x>9</x>
+		<y>2</y>
+		<w>1</w>
+	</Key>
+	
+	<Key name=";">
+		<x>10</x>
+		<y>2</y>
+		<w>1</w>
+	</Key>
+	
+	<Key name="'">
+		<x>11</x>
+		<y>2</y>
+		<w>1</w>
+	</Key>
+	
+	<Key name="ENTER">
+		<x>12</x>
+		<y>2</y>
+		<w>2.11</w>
+	</Key>
+	
+	
+	
+	<Key name="SHIFT">
+		<x>0</x>
+		<y>3</y>
+		<w>2.11</w>
+	</Key>
+	
+	<Key name="Z">
+		<x>1</x>
+		<y>3</y>
+		<w>1</w>
+	</Key>
+	
+	<Key name="X">
+		<x>2</x>
+		<y>3</y>
+		<w>1</w>
+	</Key>
+	
+	<Key name="C">
+		<x>3</x>
+		<y>3</y>
+		<w>1</w>
+	</Key>
+	
+	<Key name="V">
+		<x>4</x>
+		<y>3</y>
+		<w>1</w>
+	</Key>
+	
+	<Key name="B">
+		<x>5</x>
+		<y>3</y>
+		<w>1</w>
+	</Key>
+	
+	<Key name="N">
+		<x>6</x>
+		<y>3</y>
+		<w>1</w>
+	</Key>
+	
+	<Key name="M">
+		<x>7</x>
+		<y>3</y>
+		<w>1</w>
+	</Key>
+	
+	<Key name=",">
+		<x>8</x>
+		<y>3</y>
+		<w>1</w>
+	</Key>
+	
+	<Key name=".">
+		<x>9</x>
+		<y>3</y>
+		<w>1</w>
+	</Key>
+	
+	<Key name="/">
+		<x>10</x>
+		<y>3</y>
+		<w>1</w>
+	</Key>
+	
+	<Key name="SHIFT">
+		<x>11</x>
+		<y>3</y>
+		<w>2.62</w>
+	</Key>
+	
+	<Key name="CTRL">
+		<x>0</x>
+		<y>4</y>
+		<w>1.38</w>
+	</Key>
+	
+	<Key name="WIN">
+		<x>1</x>
+		<y>4</y>
+		<w>1</w>
+	</Key>
+	
+	<Key name="ALT">
+		<x>2</x>
+		<y>4</y>
+		<w>1</w>
+	</Key>
+	
+	<Key name="Space">
+		<x>3</x>
+		<y>4</y>
+		<w>6</w>
+	</Key>
+	
+	<Key name="ALT">
+		<x>4</x>
+		<y>4</y>
+		<w>1.49</w>
+	</Key>
+	
+	<Key name="FN">
+		<x>5</x>
+		<y>4</y>
+		<w>1</w>
+	</Key>
+	
+	<Key name="MNU">
+		<x>6</x>
+		<y>4</y>
+		<w>1</w>
+	</Key>
+	
+	<Key name="CTRL">
+		<x>7</x>
+		<y>4</y>
+		<w>1.38</w>
+	</Key>
+	
+	
+	
+	
+	
+</Keys>
+
+		
+	
